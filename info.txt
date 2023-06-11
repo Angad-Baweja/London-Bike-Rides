@@ -1,7 +1,1 @@
-Used a public dataset (London Bike sharing dataset) from Kaggle.
-Used VScode to programmatically download the dataset using the Kaggle Api
-Used pandas library in python to explore, assess and manipulate the data
-Exported the final data into an Excel file
-Used Tableau to visualize the dataset creating five visualizations and compiled it into a dashboard
-
 
